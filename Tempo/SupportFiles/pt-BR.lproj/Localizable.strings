@@ -1,0 +1,9 @@
+"spinner.loading" = "Carregando...";
+
+"hourlyWeather.title" = "A cada hora";
+"dailyWeather.title" = "Diário";
+
+"locationErrorText" = "Não foi possível obter a localização";
+
+"alert.error.title" = "Ocorreu um erro";
+"alert.button.tryAgain" = "Tentar novamente";
