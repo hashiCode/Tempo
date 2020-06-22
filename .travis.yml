@@ -1,0 +1,7 @@
+language: swift
+os: osx
+
+osx_image: xcode11.3
+xcode_project: Tempo.xcodeproj
+xcode_scheme: TempoTests
+xcode_destination: platform=iOS Simulator,OS=13.5,name=iPhone 11
